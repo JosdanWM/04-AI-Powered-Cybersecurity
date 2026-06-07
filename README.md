@@ -1,4 +1,4 @@
-# **Cybersecurity**
+# **AI-Powered Cybersecurity**
 
 ##  **Glosarios Bilingüe de Ciberseguridad**
 - Glosario Bilingüe del Sistema Operativo Kali Linux (anaxia)....
